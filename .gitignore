@@ -1,0 +1,4 @@
+# files to ignore
+
+orig_files/*
+other_notebooks/*
