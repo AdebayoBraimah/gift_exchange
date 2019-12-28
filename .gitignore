@@ -1,5 +1,5 @@
 # files to ignore
 
-orig_files/*
-other_notebooks/*
-.ipynb_checkpoints/*
+orig_files/* 
+other_notebooks/* 
+.ipynb_checkpoints/* 
