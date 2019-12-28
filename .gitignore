@@ -2,3 +2,4 @@
 
 orig_files/*
 other_notebooks/*
+.ipynb_checkpoints/*
