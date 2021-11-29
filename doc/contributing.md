@@ -37,4 +37,32 @@ the following labels (this convention has been inherited from [nibabel](https://
   * *CI*  : for continuous-integration changes
 
 
+Version number
+--------------
+
+
+The ``gift_exchange`` version number roughly follows [semantic versioning](http://semver.org/) 
+rules, so that dependant projects are able to perform
+compatibility testing.  The full version number string consists of three
+numbers::
+
+    major.minor.patch
+
+- The ``patch`` number is incremented on bugfixes and minor
+  (backwards-compatible) changes.
+
+- The ``minor`` number is incremented on feature additions and/or
+  backwards-compatible changes.
+
+- The ``major`` number is incremented on major feature additions, and
+  backwards-incompatible changes.
+
+
+The version number in the ``master`` branch should be of the form
+``major.minor.patch.dev0``, to indicate that any releases made from this
+branch are development releases (although development releases are not part of
+the release model).
+
+
+
 
