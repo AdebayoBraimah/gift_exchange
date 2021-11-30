@@ -4,5 +4,4 @@
 config.people.yml
 account.sid
 auth.token
-config.test.yml
 service.sid
