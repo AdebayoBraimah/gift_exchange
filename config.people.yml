@@ -4,11 +4,11 @@
 # (optional). The number of people in the exclude list should be kept to a minimum.
 
 Person1:
-  email: Person1@mail.com
+  phone: Person1@mail.com
   exclude: Person2
 Person2:
-  email: Person2@mail.com
+  phone: Person2@mail.com
 Person3:
-  email: Person3@mail.com
+  phone: Person3@mail.com
 Person4:
-  email: Person4@mail.com
+  phone: Person4@mail.com
