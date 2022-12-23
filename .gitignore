@@ -1,5 +1,7 @@
 # files to ignore
 .ipynb_checkpoints/* 
+.vscode/*
+
 # config.people.yml contains names and phone numbers 
 config.people.yml
 account.sid
